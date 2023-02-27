@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/arrow-functions-basics#perepishite-s-ispolzovaniem-funktsii-strelki
 'use strict';
 
 function ask(question, yes, no) {

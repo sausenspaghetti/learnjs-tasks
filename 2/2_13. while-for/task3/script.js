@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/while-for#kakie-znacheniya-vyvedet-tsikl-for
 'use strict';
 
 

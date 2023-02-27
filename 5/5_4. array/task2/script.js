@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/array#operatsii-s-massivami
 'use strict';
 
 let styles = ['Джаз', 'Блюз'];

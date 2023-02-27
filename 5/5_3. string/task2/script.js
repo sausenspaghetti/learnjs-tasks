@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/string#proverka-na-spam
 'use strict';
 
 function checkSpam(text) {

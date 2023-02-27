@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/number#vvod-chislovogo-znacheniya
 'use strict';
 
 function readNumber () {

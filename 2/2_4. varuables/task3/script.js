@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/variables#kakie-bukvy-zaglavnye-ili-strochnye-ispolzovat-dlya-imyon-konstant
 'use strict';
 
 function someCode(l) {

@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/variables#rabota-s-peremennymi
 'use strict';
 
 let admin;

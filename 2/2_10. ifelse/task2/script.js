@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/ifelse#nazvanie-javascript
 'use strict';
 
 let nameJS = prompt('Какое "официальное" название JavaScript?', '');

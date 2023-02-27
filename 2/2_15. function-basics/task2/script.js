@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/function-basics#perepishite-funktsiyu-ispolzuya-operator-ili
 'use strict';
 
 function checkAge(age) {

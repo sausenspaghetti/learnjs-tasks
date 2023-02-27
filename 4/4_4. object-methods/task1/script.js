@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/object-methods#ispolzovanie-this-v-literale-obekta
 'use strict';
 
 function makeUser() {

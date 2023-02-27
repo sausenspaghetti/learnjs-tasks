@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/ifelse#perepishite-if-else-v
 'use strict';
 
 let message;

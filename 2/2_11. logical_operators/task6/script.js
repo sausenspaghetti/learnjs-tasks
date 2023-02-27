@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/logical-operators#proverka-znacheniya-iz-diapazona
 'use strict';
 
 let age = 22;

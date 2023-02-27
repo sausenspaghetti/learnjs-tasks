@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/constructor-new#sozdayte-new-accumulator
 'use strict';
 
 function Accumulator(startingValue) {

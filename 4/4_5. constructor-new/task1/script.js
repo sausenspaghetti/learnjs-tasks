@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/constructor-new#dve-funktsii-odin-obekt
 'use strict';
 
 let obj = { 

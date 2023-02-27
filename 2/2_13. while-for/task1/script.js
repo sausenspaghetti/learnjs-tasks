@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/while-for#poslednee-znachenie-tsikla
 'use strict';
 
 let i = 3;

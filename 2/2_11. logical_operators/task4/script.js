@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/logical-operators#chto-vyvedet-alert-i
 'use strict';
 
 // alert возвращается undefined.

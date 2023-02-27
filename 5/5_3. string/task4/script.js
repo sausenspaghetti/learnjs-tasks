@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/string#vydelit-chislo
 'use strict';
 
 // Буквально такой формат '$${число}' : '$120', $1 ...

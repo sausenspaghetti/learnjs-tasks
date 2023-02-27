@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/object-methods#sozdayte-kalkulyator
 'use strict';
 
 let calculator = {

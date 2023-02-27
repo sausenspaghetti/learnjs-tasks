@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/variables#pridumayte-pravilnye-imena
 'use strict';
 
 /* 

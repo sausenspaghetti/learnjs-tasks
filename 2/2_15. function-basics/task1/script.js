@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/function-basics#obyazatelen-li-else
 'use script';
 
 /*

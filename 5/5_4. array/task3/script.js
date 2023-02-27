@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/array#vyzov-v-kontekste-massiva
 'use strict';
 
 let arr = ["a", "b"];

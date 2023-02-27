@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/function-basics#funktsiya-pow-x-n
 'use strict';
 
 

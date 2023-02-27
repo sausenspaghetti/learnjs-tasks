@@ -1,5 +1,5 @@
+// https://learn.javascript.ru/while-for#povtoryat-tsikl-poka-vvod-neveren
 'use strict';
-
 
 let num;
 while(true){

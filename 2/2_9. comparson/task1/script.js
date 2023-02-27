@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/comparison#operatory-sravneniya
 'use strict';
 
 let ex1 = 5 > 4;                    // true

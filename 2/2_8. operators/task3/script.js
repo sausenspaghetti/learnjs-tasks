@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/operators#preobrazovanie-tipov
 'use strict';
 
 let ex1  = "" + 1 + 0;           // "10" - оператор + все приводит к строке (если среди операндов есть строки)

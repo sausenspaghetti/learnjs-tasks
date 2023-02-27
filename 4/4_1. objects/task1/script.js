@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/object#privet-object
 'use strict';
 
 let user = {};

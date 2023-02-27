@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/ifelse#if-stroka-s-nulyom
 'use strict';
 
 // строка выведется

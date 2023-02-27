@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/array#podmassiv-naibolshey-summy
 'use strict';
 
 /*

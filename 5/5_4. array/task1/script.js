@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/array#skopirovan-li-massiv
 'use strict';
 
 let fruits = ["Яблоки", "Груша", "Апельсин"];

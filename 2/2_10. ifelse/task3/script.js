@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/ifelse#pokazhite-znak-chisla
 'use strict';
 
 let num = Number(prompt('Input the number', 0));

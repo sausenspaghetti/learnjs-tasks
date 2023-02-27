@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/logical-operators#chto-vyvedet-alert-ili
 'use strict';
 
 // alert() возвращает undefined, приведение в логическому типу дает false

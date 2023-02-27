@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/primitives-methods#mozhno-li-dobavit-svoystvo-stroke
 // 'use strict';
 
 let str = "Привет";

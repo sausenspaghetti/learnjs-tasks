@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/string#usechenie-stroki
 'use strict';
 
 // str - строка, maxlen - целое неотрицательное число

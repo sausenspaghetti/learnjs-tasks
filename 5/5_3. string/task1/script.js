@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/string#sdelat-pervyy-simvol-zaglavnym
 'use strict';
 
 function ucFirst(str) {

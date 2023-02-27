@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/logical-operators#vopros-ob-if
 'use strict';
 
 if (-1 || 0) alert( 'first' );          // выведется, т.к. -1 - это true

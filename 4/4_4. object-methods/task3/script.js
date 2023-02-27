@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/object-methods#tsep-vyzovov
 'use strict';
 
 /*

@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/switch#napishite-if-analogichnyy-switch
 'use strict';
 
 let browser = 'Opera';

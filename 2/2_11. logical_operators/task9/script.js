@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/logical-operators#proverka-logina
 'use strict';
 
 let CORRECT_PASSW = 'Я главный';

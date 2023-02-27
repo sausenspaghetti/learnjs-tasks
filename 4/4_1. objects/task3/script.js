@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/object#obekty-konstanty
 'use strict';
 
 /*

@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/operators#ispravte-slozhenie
 'use strict';
 
 let a = Number(prompt("Первое число?", 1));

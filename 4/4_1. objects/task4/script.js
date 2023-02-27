@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/object#summa-svoystv-obekta
 'use strict';
 
 let salaries = {

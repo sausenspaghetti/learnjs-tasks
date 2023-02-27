@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/logical-operators#chto-vyvedet-etot-kod
 'use strict';
 
 // Сначала 2 && 3 преобразуется к 3.

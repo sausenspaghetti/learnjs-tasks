@@ -1,19 +1,20 @@
+// https://learn.javascript.ru/array#summa-vvedyonnyh-chisel
 'use strict';
 
 
 function sumInput() {
     let res = [];
-    let sum_tot = 0;
+    let sumTot = 0;
     while (true) {
         let next = prompt('Input number');
         if (next === null || !isFinite(next) )
             break;
         else {
             res.push(+next);
-            sum_tot += +next;
+            sumTot += +next;
         }
     }
-    return sum_tot;
+    return sumTot;
 }
 
 alert( sumInput() );

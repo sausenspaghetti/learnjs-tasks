@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/number#summa-polzovatelskih-chisel
 'use strict';
 
 let a = +prompt('1st digit', 0);

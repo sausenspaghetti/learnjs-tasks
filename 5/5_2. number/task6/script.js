@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/number#sluchaynoe-tseloe-chislo-ot-min-do-max
 'use strict';
 
 // min, max - целые

@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/switch#perepisat-usloviya-if-na-switch
 'use strict';
 
 const number = +prompt('Введите число между 0 и 3', '');

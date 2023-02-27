@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/operators#rezultat-prisvaivaniya
 'use strict';
 
 let a = 2;

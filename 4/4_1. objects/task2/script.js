@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/object#proverka-na-pustotu
 'use strict';
 
 function isEmpty(obj){

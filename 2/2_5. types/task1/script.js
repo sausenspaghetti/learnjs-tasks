@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/types#shablonnye-stroki
 'use strict';
 
 let name = "Ilya";

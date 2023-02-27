@@ -1,5 +1,5 @@
+// https://learn.javascript.ru/while-for#vyvesti-prostye-chisla
 'use strict';
-
 
 // find prime (dummy)
 let n = 10;     // range 

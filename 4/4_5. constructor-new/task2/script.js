@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/constructor-new#sozdayte-kalkulyator-pri-pomoschi-konstruktora-new-calculator
 'use strict';
 
 function Calculator() {

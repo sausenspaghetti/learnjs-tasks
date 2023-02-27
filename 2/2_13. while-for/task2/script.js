@@ -1,3 +1,4 @@
+// https://learn.javascript.ru/while-for#kakie-znacheniya-vyvedet-tsikl-while
 'use strict';
 
 // Вывод: 1, 2, 3, 4
